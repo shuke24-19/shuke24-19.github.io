@@ -22,7 +22,7 @@ redirect_from:
   [24-19/刷胖乖积分.docx at        main ·        shuke24-19/24-19](https://github.com/shuke24-19/24-19/blob/main/%E5%88%B7%E8%83%96%E4%B9%96%E7%A7%AF%E5%88%86.docx)点开链接，里面有个View raw，点击一下就下载了，里面文档教程很清晰，如果有不懂得可以问我。
  5. -刷学习通，mooc这种<br>
     因为这种网上的资料已经很全了所以我给大家分享一下网站，可以自行摸索https://docs.ocsjs.com/docs/quickly-start/
- 6. -we learn答案《br>
+ 6. -we learn答案<br>
     这种我建议按照我给的视频来 https://www.bilibili.com/video/BV1XN4y1h7Sj/?buvid=XU3F7AF3570401EEBFDC4AADBBD7CC844B96B&from_spmid=search.search-result.0.0&is_story_h5=false&mid=%2FqZm6lnMZE8vxc7aIIl7Rw%3D%3D&plat_id=116&share_from=ugc&share_medium=android_hd&share_plat=android&share_session_id=b4c58f62-dea2-41d8-8477-8d39d0e85f7c&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1733468908&unique_k=NpqPMD0&up_id=627451516 
 
  
