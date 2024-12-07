@@ -23,10 +23,10 @@ redirect_from:
  5. -刷学习通，mooc这种<br>
     因为这种网上的资料已经很全了所以我给大家分享一下网站，可以自行摸索https://docs.ocsjs.com/docs/quickly-start/
  6. -we learn答案<br>
-    这种我建议按照我给的视频来 https://www.bilibili.com/video/BV1XN4y1h7Sj/?buvid=XU3F7AF3570401EEBFDC4AADBBD7CC844B96B&from_spmid=search.search-result.0.0&is_story_h5=false&mid=%2FqZm6lnMZE8vxc7aIIl7Rw%3D%3D&plat_id=116&share_from=ugc&share_medium=android_hd&share_plat=android&share_session_id=b4c58f62-dea2-41d8-8477-8d39d0e85f7c&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1733468908&unique_k=NpqPMD0&up_id=627451516 
+    这种我建议按照我给的视频来<br> https://www.bilibili.com/video/BV1XN4y1h7Sj/?buvid=XU3F7AF3570401EEBFDC4AADBBD7CC844B96B&from_spmid=search.search-result.0.0&is_story_h5=false&mid=%2FqZm6lnMZE8vxc7aIIl7Rw%3D%3D&plat_id=116&share_from=ugc&share_medium=android_hd&share_plat=android&share_session_id=b4c58f62-dea2-41d8-8477-8d39d0e85f7c&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1733468908&unique_k=NpqPMD0&up_id=627451516 
 
  
 
 <br>
- 1. 目前想不到你们还需要什么了，除了这个页面其他页面我还没有弄，如果有什么想法的可以联系我，我会帮你们。
+ 1. 目前想不到你们还需要什么了，除了这个页面其他页面我还没有弄，如果有什么想法的可以联系我，我会帮你们。<br>
  2. 网站不定时更新，但是如果有更新我会在微信说一声。
