@@ -24,7 +24,11 @@ redirect_from:
     因为这种网上的资料已经很全了所以我给大家分享一下网站，可以自行摸索https://docs.ocsjs.com/docs/quickly-start/
  6. -we learn答案<br>
     这种我建议按照我给的视频来<br> https://www.bilibili.com/video/BV1XN4y1h7Sj/?buvid=XU3F7AF3570401EEBFDC4AADBBD7CC844B96B&from_spmid=search.search-result.0.0&is_story_h5=false&mid=%2FqZm6lnMZE8vxc7aIIl7Rw%3D%3D&plat_id=116&share_from=ugc&share_medium=android_hd&share_plat=android&share_session_id=b4c58f62-dea2-41d8-8477-8d39d0e85f7c&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1733468908&unique_k=NpqPMD0&up_id=627451516 
-
+ 7.关于想考普通话的同学，在12月学校会组织，然后到明年5月考试，报名费30元。其中想考教师资格证的到大三才能考（因为成绩有效期为两年，且需要毕业证）9月考试，报名费260元。<br>
+ 8.关于我们数科专业大一科多，往后课越来越少，大三一周4节课，到大四是需要去实习（奶茶店实习也算）。<br>
+ 9.我们校区目前可保本校的研究生，需要绩点为3.7（全年级3%-4%），且英语四级达到460分或六级达到425分。<br>
+ 10.-关于算法学习，可以看我给的清单，按照清单学习<br>
+ https://github.com/shuke24-19/24-19/tree/main/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84
  
 
 <br>
