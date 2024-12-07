@@ -19,7 +19,7 @@ redirect_from:
  1. -如何翻墙<br>
     这边我为大家分享免费的翻墙软件，但是要记住一定不能用来做坏事，小心警察叔叔找你喝茶。 ikuuu.org(按照里面内容下载clash，不懂的可以问我） 
  3. -如何刷胖乖积分<br>
- 4. [24-19/刷胖乖积分.docx at        main ·        shuke24-19/24-19](https://github.com/shuke24-19/24-19/blob/main/%E5%88%B7%E8%83%96%E4%B9%96%E7%A7%AF%E5%88%86.docx)点开链接，里面有个View raw，点击一下就下载了，里面文档教程很清晰，如果有不懂得可以问我。
+  [24-19/刷胖乖积分.docx at        main ·        shuke24-19/24-19](https://github.com/shuke24-19/24-19/blob/main/%E5%88%B7%E8%83%96%E4%B9%96%E7%A7%AF%E5%88%86.docx)点开链接，里面有个View raw，点击一下就下载了，里面文档教程很清晰，如果有不懂得可以问我。
  5. -刷学习通，mooc这种<br>
     因为这种网上的资料已经很全了所以我给大家分享一下网站，可以自行摸索https://docs.ocsjs.com/docs/quickly-start/
 
