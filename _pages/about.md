@@ -40,9 +40,9 @@ redirect_from:
  12.-关于头歌操作视频已经上传到我的b站，需要的自己看https://www.bilibili.com/video/BV1Qhq6YeEFK/spm_id_from=333.1387.homepage.video_card.click&vd_source=36ebab7557af1781fdcca60c52a5e988<br>
 
 13.-更新我的仓库，已上传党课、计算机操作系统、数据结构、近代史https://github.com/shuke24-19/24-19，点击code建可下载。<br>
- 
- 
 
-
+ 14.-如果大家想要学习算法，推荐在头歌和郑轻oj（郑州轻工业大学）（http://acm.zzuli.edu.cn/problem.php?id=1005）练习算法，因为难度比较低，建议练的有一定熟练度再到
+ 力扣和牛客上面练习。<br>
+ 
  1. 目前想不到你们还需要什么了，除了这个页面其他页面我还没有弄，如果有什么想法的可以联系我，我会帮你们。<br>
  2. 网站不定时更新，但是如果有更新我会在微信说一声。
