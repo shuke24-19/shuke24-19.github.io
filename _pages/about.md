@@ -12,15 +12,15 @@ redirect_from:
   **这是河南农业大学许昌校区24-19班的网站，仅供19班同学使用，谢绝外传。里面我们会分享一些适用于我们的东西包括但不限于学习资料，照片，刷科的方法等等，如果你有想分享的东西，可以发给我让我传到这个网站，网站所有资源全部开源，希望同学们能维护好这个网站**
    <br>编者：王泽<br>
    **如果打不可我给的链接先试试翻墙，然后在打开，如果不会翻墙可以问我，我会帮助大家。**<br>
-   1. -如何翻墙<br>
-    这边我为大家分享免费的翻墙软件，但是要记住一定不能用来做坏事，小心警察叔叔找你喝茶。 ikuuu.org(按照里面内容下载clash，不懂的可以问我）
+   1. -科学上网<br>
+    这边我为大家分享免费的翻墙软件，但是要记住一定不能用来做坏事，小心警察叔叔找你喝茶。 网址：ikuuu.org(按照里面内容下载clash，不懂的可以问我）
  2. -学习资料(需要有VPN才能下载）<br>
     期末复习资料（英语、Java、大数据、高数）https://github.com/shuke24-19/24-19.git
     
  4. -如何刷胖乖积分(需要有VPN才能下载）<br>
   [24-19/刷胖乖积分.docx at main·shuke24-19/24-19](https://github.com/shuke24-19/24-19/blob/main/%E5%88%B7%E8%83%96%E4%B9%96%E7%A7%AF%E5%88%86.docx)点开链接，里面有个View raw，点击一下就下载了，里面文档教程很清晰，如果有不懂得可以问我。
 
- 5. -刷学习通，mooc这种（软件已失效，这个废了）<br>
+ 5. -刷学习通，mooc这种（软件已失效，这个作废）<br>
     因为这种网上的资料已经很全了所以我给大家分享一下网站，可以自行摸索https://docs.ocsjs.com/docs/quickly-start/<br>
     
  6. -we learn答案（地址是b站)<br>
@@ -37,12 +37,15 @@ redirect_from:
  
  11.--关于头歌实验三 HBase的安装与基本操作需要的网页地址https://huaweicloud.csdn.net/637ee696df016f70ae4c9182.html（无需翻墙，需要注册CSDN，阿里云）<br>
 
- 12.-关于头歌操作视频已经上传到我的b站，需要的自己看https://www.bilibili.com/video/BV1Qhq6YeEFK/spm_id_from=333.1387.homepage.video_card.click&vd_source=36ebab7557af1781fdcca60c52a5e988<br>
+
+ 12.-关于头歌操作视频已经上传到我的b站（我的b站名：6侠66），需要的自己看https://www.bilibili.com/video/BV1Qhq6YeEFK/spm_id_from=333.1387.homepage.video_card.click&vd_source=36ebab7557af1781fdcca60c52a5e988<br>
 
 13.-更新我的仓库，已上传党课、计算机操作系统、数据结构、近代史https://github.com/shuke24-19/24-19，点击code建可下载。<br>
 
  14.-如果大家想要学习算法，推荐在头歌和郑轻oj（郑州轻工业大学）（http://acm.zzuli.edu.cn/problem.php?id=1005）练习算法，因为难度比较低，建议练的有一定熟练度再到
  力扣和牛客上面练习。<br>
+
+ 15.目前我所总结的学习方法是看b站（黑马程序员）学Java，（左程云）学算法，在头歌、郑轻上面刷题。<br>
  
  1. 目前想不到你们还需要什么了，除了这个页面其他页面我还没有弄，如果有什么想法的可以联系我，我会帮你们。<br>
  2. 网站不定时更新，但是如果有更新我会在微信说一声。
