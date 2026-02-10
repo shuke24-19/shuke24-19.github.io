@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "数科24-19班" #标题
+title                    : "数科24" #标题
 title_separator          : "-"
-name                     : &name "泽哥"
+name                     : &name "泽"
 description              : &description "既然来到这里，就留下些什么吧"
 url                      : https://shuke24-19.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "shuke24-19/shuke24-19.github.io" #仓库名称/地�
 author:
   # Biographic information
   avatar           : "profile.png" #头像
-  name             : "泽哥"
+  name             : "泽"
   pronouns         : "he"  
   bio              : "个人介绍"
   location         : "9号楼"
@@ -88,7 +88,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -291,8 +291,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 10  # 去掉前面的 #，建议设置为 5-10
+paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
