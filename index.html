@@ -1,0 +1,17 @@
+---
+layout: home
+title: "最新动态"
+permalink: /
+author_profile: true
+header:
+  overlay_image: /images/homepage.png
+  caption: "数科24-19班"
+---
+
+<h3 class="archive__subtitle">最近更新</h3>
+
+{% for post in site.posts limit:10 %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+{% include paginator.html %}
